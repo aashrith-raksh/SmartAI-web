@@ -1,9 +1,10 @@
-import Arrow from "./assets/svg/Arrow.js";
+import Button from "./UI/Button.tsx";
+
 function App() {
   return (
     <>
       <h1 className="text-3xl font-bold">SmartAI</h1>
-      <Arrow />
+      <Button className="mt-10">sdfdsf</Button>
     </>
   );
 }
